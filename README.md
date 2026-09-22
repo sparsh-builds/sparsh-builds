@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <YOUR_NAME> 👋
+# Hi there, I'm <SPARSH GARG> 👋
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450px" alt="Coding GIF">
 
